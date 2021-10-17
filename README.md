@@ -1,5 +1,5 @@
 # ACA
-This is the README file of Calendar project developed by Hayk Minasyan.
+This is the README file of ACAHomeworks project developed by Hayk Minasyan.
 
 # CONTENTS
 
