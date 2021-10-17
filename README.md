@@ -9,7 +9,7 @@ This is the README file of ACAHomeworks project developed by Hayk Minasyan.
 
 # 1.AUTHOR
 
- * HAYK MINASYAN
+HAYK MINASYAN
  * contact: +374 77 87 67 97
  * Gmail:   haykminasyan70@Gmail.com
  * [ LinkedIN ]( http://www.linkedin.com/in/hayk-minasyan-8b228620a)
